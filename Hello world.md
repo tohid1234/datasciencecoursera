@@ -2,7 +2,7 @@
 My assignment
 ---
 title: "HelloWorld"
-author: "Vishakha"
+author: "tohid"
 output: pdf_document
 ---
 ##This is a markdown file
